@@ -10,6 +10,8 @@ The API is deployed and live on Render. You can test it directly from your brows
 *   **📚 Swagger UI (Interactive Docs):** [https://chatbot-platform-1naz.onrender.com/docs](https://chatbot-platform-1naz.onrender.com/docs)
 
 
+"Note: This API is hosted on Render's free tier. The first request may take 30-50 seconds to wake up the server. Please be patient!"
+(You can also go to your live Swagger URL 5 minutes before you submit to "wake it up" for them).
 
 📂 Project Structure
 text
